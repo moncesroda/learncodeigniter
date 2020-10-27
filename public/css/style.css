@@ -1,0 +1,7 @@
+.sampul{
+    width: 70PX;
+}
+/* kalau * itu  menandakan apa aja yang ada di dalam tr entah itu td atau th akan di eksekusi sesuai dengan sintaxs */
+.table > tbody > tr > * {
+    vertical-align: middle;
+}
